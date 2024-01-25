@@ -1,4 +1,6 @@
 # Add file 
-# Add text 
+# local text1
+print("what is this")
 
-# git cnfilict-
+# github text 1
+print("what is this?")
