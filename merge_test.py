@@ -1,6 +1,3 @@
 print("File for merge test 1")
 print("File for merge test 2")
 print("File for merge test 3")
-print("File for merge test 4")
-print("File for merge test 5")
-print("File for merge test 6")
